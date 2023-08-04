@@ -1,0 +1,167 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+.nav-div{
+  background-color: #2B324D;
+}
+.nav-div a{
+  color : #CAD2DD;
+}
+.nav-div a:hover{
+  color : white;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: rgb(60, 60, 234);
+    font-size : 35px;
+}
+.hero{
+    margin-top : 70px;
+}
+.hero-desc{
+    padding-top : 100px;
+}
+.hero-img{
+    padding-left : 50px;
+}
+.hero-heading1{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(47, 47, 47);
+    margin-bottom : 10px;
+}
+.hero-paragraph{
+    font-size: 18px;
+    width : 600px;
+}
+.hero-heading2{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(103, 102, 102);
+}
+.courses-list{
+    margin: 30px 40px 50px;
+}
+.courses{
+    padding: 20px;
+    margin-bottom : 20px;
+    box-shadow: 2px 2px 10px rgb(227, 226, 226);
+    border-radius : 5px;
+}
+.courses p{
+    font-size: 20px;
+    display : inline;
+}
+.courses i{
+    color: rgb(60, 60, 234);
+    margin-right: 10px;
+    font-size: 28px;
+}
+.courses:hover{
+    cursor:pointer;
+    box-shadow: 2px 2px 10px rgb(188, 188, 188);
+}
+.carousel-features{
+    background-color: rgb(245, 245, 245);
+    padding: 60px 60px 0px;
+}
+.carousel-features-desc{
+    padding-top : 100px;
+}
+.carousel-features-desc h3{
+    margin-bottom : 20px;
+    font-size: 35px;
+    letter-spacing: 1;
+    font-weight: bold;
+}
+.carousel-features-desc li{
+    line-height: 2;
+    font-size: 19px;
+    list-style-type: disc;
+    color: rgb(107, 107, 107);
+}
+.carousel-inner {
+    width: 100%;
+    max-height: 400px;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .carousel-courses{
+    margin: 50px 0px;
+  }
+  .carousel-img{
+    width : 110px;
+  }
+  .carousel-img-c-plusplus{
+    margin-top : 14px;
+    width: 125px;
+  }
+.carousel-courses div{
+    margin:0px 10px 10px;
+    width : 175px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px rgb(208, 208, 208);
+    text-align : center;
+  }
+  .carousel-courses div:hover{
+    box-shadow: 2px 2px 10px rgb(169, 169, 169);
+  }
+  footer{
+    padding: 60px 50px 20px;
+    background-color: #2B324D;
+  }
+  .footer-header{
+    color:rgb(60, 60, 234); 
+    font-weight: bold;
+  }
+  footer ul, h4{
+    text-align: center;
+    list-style-type: none;
+  }
+  footer ul li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+  }
+  footer h4{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+  }
+  footer li{
+    color: #CAD2DD;
+  }
+  .play-store-btn{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding:5px 10px;
+    margin: 10px 0px;
+  }
+  .play-store-btn img{
+    width:25px;
+  }
+  .app-store-btn{
+    border: none;
+    border-radius : 5px;
+    background-color: black;
+    color: white;
+    padding: 5px 5px; 
+    width: 130px;
+  }
+  .fa-apple{
+    font-size:25px; 
+    margin-right : 8px;
+  }
+  .footer-down p{
+    color: #CAD2DD;
+  }
+  .footer-down i{
+    margin-left: 10px;
+    color : #CAD2DD;
+  }
